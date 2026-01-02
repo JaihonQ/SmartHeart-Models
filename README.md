@@ -1,9 +1,4 @@
-# SmartHeart-Models
-SmartHeart is an AI-powered heart disease prediction system built with Python and machine learning techniques, comparing multiple supervised models to support early and accurate medical diagnosis.
-
-
-
-🫀 SmartHeart – Heart Disease Prediction Using Machine Learning
+ 🫀 # SmartHeart – Heart Disease Prediction Using Machine Learning
 📌 Project Overview
 SmartHeart is a machine learning project designed to predict the presence of heart disease using clinical and demographic patient data.
 This project is implemented in Python using a Jupyter Notebook and evaluates multiple supervised learning algorithms to compare their performance.
